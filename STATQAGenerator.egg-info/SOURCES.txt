@@ -1,0 +1,7 @@
+README.md
+setup.py
+STATQAGenerator.egg-info/PKG-INFO
+STATQAGenerator.egg-info/SOURCES.txt
+STATQAGenerator.egg-info/dependency_links.txt
+STATQAGenerator.egg-info/requires.txt
+STATQAGenerator.egg-info/top_level.txt
