@@ -1,0 +1,9 @@
+Summary of Important Statistics
+R Square
+Adjusted R Square
+F Statistic to Test the Regression Model
+Regression Coefficients (Slopes)
+Standard Error of the Regression Coefficient
+T Statistic to Test Individual Slope Values
+Confidence Interval for the Slope (b)
+Standardized Regression Coefficient
