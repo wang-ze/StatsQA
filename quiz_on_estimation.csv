@@ -1,0 +1,7 @@
+STATSQA,Choices,Correct
+What is estimation statistics used for?,"a: To only ask if an effect is present or not | b: To plan experiments, analyze data, and interpret results | c: To only report P values | d: To only calculate confidence intervals",b
+What is the primary aim of estimation methods?,a: To only report P values | b: To only calculate confidence intervals | c: To report an effect size along with its confidence interval | d: To only plan experiments,c
+What does a confidence interval summarize?,a: A range of likely values of the underlying population effect | b: A measure of the precision of the estimate | c: A point estimate of the effect size | d: A null hypothesis,a
+What is sometimes referred to as the new statistics?,a: Hypothesis testing | b: Null hypothesis significance testing | c: Estimation statistics | d: Meta-analysis,c
+Why do proponents of estimation see reporting a P value as unhelpful?,a: Because it is difficult to understand | b: Because it is a distraction from reporting an effect size | c: Because it is not necessary | d: Because it is not accurate,b
+What do proponents of estimation believe should replace significance testing for data analysis?,a: Hypothesis testing | b: Estimation statistics | c: Null hypothesis significance testing | d: Meta-analysis,b

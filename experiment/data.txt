@@ -1,9 +1,3 @@
-Summary of Important Statistics
-R Square
-Adjusted R Square
-F Statistic to Test the Regression Model
-Regression Coefficients (Slopes)
-Standard Error of the Regression Coefficient
-T Statistic to Test Individual Slope Values
-Confidence Interval for the Slope (b)
-Standardized Regression Coefficient
+Estimation statistics, or simply estimation, is a data analysis framework that uses a combination of effect sizes, confidence intervals, precision planning, and meta-analysis to plan experiments, analyze data and interpret results.[1] It complements hypothesis testing approaches such as null hypothesis significance testing (NHST), by going beyond the question is an effect present or not, and provides information about how large an effect is.[2][3] Estimation statistics is sometimes referred to as the new statistics.[3][4][5]
+
+The primary aim of estimation methods is to report an effect size (a point estimate) along with its confidence interval, the latter of which is related to the precision of the estimate.[6] The confidence interval summarizes a range of likely values of the underlying population effect. Proponents of estimation see reporting a P value as an unhelpful distraction from the important business of reporting an effect size with its confidence intervals,[7] and believe that estimation should replace significance testing for data analysis.[8][9]
