@@ -64,7 +64,6 @@ if button and uploaded_file is not None and number and area and grade:
                 else:
                     st.error("Error: Cannot show quiz questions in a table")
 
-
             else:
                 st.write(all_result)
             
