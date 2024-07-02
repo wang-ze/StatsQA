@@ -1,6 +1,0 @@
-STATSQA,Choices,Correct
-What is the main goal of estimation methods?,a: To test a null hypothesis | b: To report an effect size with its confidence interval | c: To compare means between groups | d: To analyze data using meta-analysis,b
-What does a confidence interval summarize?,a: A range of likely values of the underlying population effect | b: A point estimate of the effect size | c: The precision of the estimate | d: The null hypothesis,a
-What is sometimes referred to as the 'new statistics'?,a: Hypothesis testing | b: Estimation statistics | c: Data analysis | d: Meta-analysis,b
-What is reported along with an effect size in estimation methods?,a: A P value | b: A confidence interval | c: A null hypothesis | d: A mean,b
-What does estimation statistics provide information about?,a: Whether an effect is present or not | b: How large an effect is | c: The precision of the estimate | d: The null hypothesis,b

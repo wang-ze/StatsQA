@@ -31,10 +31,7 @@ def extract_between_braces(s):
     while start != -1 and start + 1 < len(s) and s[start + 1] == '{':
         start = s.find('{', start + 1)
     
-    end = s.rfind('}')
-    # Ensure the character before the last '}' is not another '}'
-    while end != -1 and end - 1 >= 0 and s[end - 1] == '}':
-        end = s.rfind('}', 0, end - 1)
+    end = s.rfind('}}')
     
     if start != -1 and end != -1 and end > start:
         return "{" + s[start+1:end] + "}}"
@@ -60,7 +57,7 @@ def get_table_data(all_result):
                     ]
         )
             correct = value["correct"]
-            quiz_table_data.append({"STATSQA": STATSQA, "Choices": options, "Correct": correct})
+            quiz_table_data.append({"Question": STATSQA, "Choices": options, "Correct": correct})
         
         return quiz_table_data
         

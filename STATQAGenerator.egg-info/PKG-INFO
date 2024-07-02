@@ -6,7 +6,8 @@ Author: Ze Wang
 Author-email: zewang@gmail.com
 License: MIT
 Requires-Dist: openai
-Requires-Dist: langchain
+Requires-Dist: langchain_core
+Requires-Dist: langchain_groq
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
 Requires-Dist: PyPDF2

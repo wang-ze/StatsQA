@@ -1,0 +1,6 @@
+STATSQA,Choices,Correct
+What is the primary aim of estimation methods?,a: To test if an effect is present or not | b: To report an effect size along with its confidence interval | c: To determine the significance of the results | d: To compare the results with other studies,b
+What is the function of a confidence interval in estimation statistics?,a: To determine the significance of the results | b: To summarize a range of likely values of the underlying population effect | c: To test if an effect is present or not | d: To report an effect size along with its precision,b
+What do proponents of estimation statistics see as an unhelpful distraction?,a: Hypothesis testing | b: Null hypothesis significance testing | c: Reporting a P value | d: Meta-analysis,c
+What is the term sometimes used to refer to estimation statistics?,a: New data analysis | b: New statistics | c: New estimation | d: New hypothesis testing,b
+What is an advantage of estimation statistics over null hypothesis significance testing?,a: It provides more precise results | b: It reports a point estimate along with its confidence interval | c: It is more widely used | d: It is less complex,b

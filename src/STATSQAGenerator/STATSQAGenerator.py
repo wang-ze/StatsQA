@@ -1,9 +1,10 @@
 import os
 import json
+import traceback
 import pandas as pd
 from dotenv import load_dotenv
-from src.STATQAGenerator.utils import read_file,get_table_data
-from src.STATQAGenerator.logger import logging
+from src.STATSQAGenerator.utils import read_file, extract_between_braces, get_table_data
+from src.STATSQAGenerator.logger import logging
 
 #imporing necessary packages packages from langchain
 from operator import itemgetter
@@ -17,7 +18,7 @@ from langchain_groq import ChatGroq
 load_dotenv() 
 
 # Access the environment variables just like you would with os.environ
-key=os.getenv("OPENAI_API_KEY")
+KEY=os.getenv("GROQ_API_KEY")
 
 
 model = ChatGroq(groq_api_key= KEY, model="llama3-8b-8192")
@@ -68,4 +69,3 @@ complete_chain = ({
     }
     | RunnablePassthrough.assign(eval=quiz_evaluation_chain)
 )
-
