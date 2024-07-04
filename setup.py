@@ -15,6 +15,6 @@ setup(
     # Metadata
     author="Ze Wang",
     author_email="zewang@gmail.com",
-    description="Generate statistics questions and answers from a given text using OpenAI's GPT-3.",
+    description="Generate and evaluate a quiz on a topic in statistics.",
     license="MIT",
 )

@@ -1,6 +1,6 @@
 STATSQA,Choices,Correct
-What is the primary aim of estimation methods?,a: To test if an effect is present or not | b: To report an effect size along with its confidence interval | c: To determine the significance of the results | d: To compare the results with other studies,b
-What is the function of a confidence interval in estimation statistics?,a: To determine the significance of the results | b: To summarize a range of likely values of the underlying population effect | c: To test if an effect is present or not | d: To report an effect size along with its precision,b
-What do proponents of estimation statistics see as an unhelpful distraction?,a: Hypothesis testing | b: Null hypothesis significance testing | c: Reporting a P value | d: Meta-analysis,c
-What is the term sometimes used to refer to estimation statistics?,a: New data analysis | b: New statistics | c: New estimation | d: New hypothesis testing,b
-What is an advantage of estimation statistics over null hypothesis significance testing?,a: It provides more precise results | b: It reports a point estimate along with its confidence interval | c: It is more widely used | d: It is less complex,b
+What is the main goal of hypothesis testing?,a: To find the average of a dataset | b: To determine if an effect is present or not | c: To predict the future values of a dataset | d: To identify outliers in a dataset,b
+What is a P-value in hypothesis testing?,a: A measure of the sample size | b: A probability that an effect is present | c: The probability that the observed difference is due to chance | d: A type of confidence interval,c
+What is an advantage of using estimation statistics over hypothesis testing?,a: It is easier to understand | b: It provides more detailed information about the effect size | c: It is more precise | d: It is faster to calculate,b
+What is a confidence interval used for in hypothesis testing?,a: To determine the sample size needed for a study | b: To summarize the range of likely values for an effect | c: To test the null hypothesis | d: To calculate the P-value,b
+What is the term used to describe the new approach to data analysis that goes beyond hypothesis testing?,a: New statistics | b: Old statistics | c: Hypothesis testing | d: Estimation statistics,a

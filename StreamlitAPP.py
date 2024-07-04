@@ -3,7 +3,7 @@ import json
 import traceback
 import pandas as pd
 from dotenv import load_dotenv
-from src.STATSQAGenerator.utils import read_file, extract_between_braces, get_table_data
+from src.STATSQAGenerator.utils import read_file, get_table_data
 from src.STATSQAGenerator.logger import logging
 import streamlit as st
 from src.STATSQAGenerator.STATSQAGenerator import complete_chain
